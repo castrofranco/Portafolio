@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.container-imagenes-horizontales{
+    display: flex;
+    justify-content: center;
+}
+.ancho-imagenes{
+    width: 200px;
+}
